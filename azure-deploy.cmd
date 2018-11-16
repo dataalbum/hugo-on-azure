@@ -8,7 +8,7 @@ if exist bin goto build
 md bin
 cd bin
 :install
-curl -o hugo051.zip -L https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Windows-64bit.zip
+curl -o hugo051.zip https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Windows-64bit.zip
 echo Installing Hugo...
 SetLocal DisableDelayedExpansion & d:\7zip\7za x hugo051.zip
 
