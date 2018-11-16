@@ -1,5 +1,5 @@
 theme: hona
 languageCode: en-us
 title: Hugo on Azure Demo
-baseURL: http://hugo-on.azurewebsites.net
+baseURL: http://dataalbumblog.azurewebsites.net
 MetaDataFormat: YAML
